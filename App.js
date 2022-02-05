@@ -36,7 +36,7 @@ export default class App extends React.Component {
           style={styles.imageIcon}
           source={{
             uri:
-              'https://www.shareicon.net/data/128x128/2015/08/06/80805_face_512x512.png',
+              'https://www.shareicon.net/download/16x16//2015/09/04/95744_face_16x16.png',
           }}
         />
 
